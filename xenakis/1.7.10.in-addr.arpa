@@ -5,7 +5,7 @@
 
 $ORIGIN 1.7.10.IN-ADDR.ARPA.
 
-@ 		IN 	SOA		xenakis.XX.gr. xenakis (
+@ 	IN 	SOA	xenakis.XX.gr. xenakis (
                                     5 ; serial
                                     60 ; refresh
                                     60 ; retry
@@ -13,14 +13,14 @@ $ORIGIN 1.7.10.IN-ADDR.ARPA.
                                     60 ) ; min
 
 
-        IN	NS		xenakis.XX.gr.
-127		IN 	PTR 	xenakis.XX.gr.
-178		IN 	PTR 	moniuszko.opera.XIX.pl.
-170 	IN 	PTR 	mascagni.opera.XIX.it.
-179		IN 	PTR 	monteverdi.vocal.XVI.it.
-173		IN 	PTR 	mendelssohn.XIX.de.
-176		IN 	PTR 	meyerbeer.opera.XIX.de.
-172 	IN 	PTR 	mehul.opera.XVIII.fr.
-171 	IN 	PTR 	massenet.vocal.XIX.fr.
+       	IN	NS	xenakis.XX.gr.
+127	IN 	PTR 	xenakis.XX.gr.
+178	IN 	PTR 	moniuszko.opera.XIX.pl.
+170	IN 	PTR 	mascagni.opera.XIX.it.
+179	IN 	PTR 	monteverdi.vocal.XVI.it.
+173	IN 	PTR 	mendelssohn.XIX.de.
+176	IN 	PTR 	meyerbeer.opera.XIX.de.
+172	IN 	PTR 	mehul.opera.XVIII.fr.
+171	IN 	PTR 	massenet.vocal.XIX.fr.
 175 	IN 	PTR 	messiaen.XX.fr.
-177		IN 	PTR 	milhaud.vocal.XX.fr.
+177	IN 	PTR 	milhaud.vocal.XX.fr.
