@@ -1,0 +1,15 @@
+; zonebestand voor XVIII.fr
+@		IN	SOA	rameau.XVIII.fr. niels.verbeeck.ugent.be (
+				2016052700;
+				60
+				60
+				60
+				60 )
+		IN	NS	rameau
+Opera		IN	NS	bach.sacral.XVIII.de.
+Sonatas		IN	NS	Beethoven.XIX.de.
+Rameau	IN	A	192.168.16.149
+Forquerqay	IN	A	192.168.16.91
+Clerambault.sacral	IN	A	192.168.16.72
+Bach.sacral.XVIII.de.	IN	A	192.168.16.125
+Beethoven.XIX.de.	IN	A	192.168.16.148
