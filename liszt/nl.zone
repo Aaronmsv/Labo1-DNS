@@ -1,13 +1,13 @@
 $TTL 60
-@	IN	SOA	liszt.piano.XIX.hu.	root (
-			2001041600	;serial
-			60		;Refresh
-			60		;Retry
-			60		;Expire
-			60 )		;TTL
-
-		IN	NS	liszt.piano.XIX.hu.
-
+@		IN	SOA	liszt.piano.XIX.hu. niels.verbeeck.ugent.be (
+				2016052700;
+				60
+				60
+				60
+				60 )
+			IN	NS	liszt.piano.XIX.hu.
+XVI			IN	NS	scarlatti.keyboard.XVIII.it.
+XX			IN	NS	chopin.piano.XIX.pl.
 obrecht.sacral.XV	IN	A	192.168.16.186
 
 
