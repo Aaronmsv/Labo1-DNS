@@ -1,0 +1,9 @@
+; zonebestand voor fi
+@		IN	SOA	rameau.XVIII.fr. niels.verbeeck.ugent.be (
+				2016052700;
+				60
+				60
+				60
+				60 )
+		IN	NS	rameau.XVIII.fr.
+Sibelius.XX	IN	A	192.168.16.224

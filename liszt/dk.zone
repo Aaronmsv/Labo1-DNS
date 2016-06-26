@@ -1,0 +1,12 @@
+$TTL 60
+@		IN	SOA	liszt.piano.XIX.hu. niels.verbeeck.ugent.be (
+				2016052700;
+				60
+				60
+				60
+				60 )
+			IN	NS	liszt.piano.XIX.hu.
+XX			IN	NS	nielsen.XX.dk.
+buxtehude.vocal.XVII	IN	A	192.168.16.50
+nielsen.XX.dk.		IN	A	192.168.16.143
+

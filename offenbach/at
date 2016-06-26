@@ -1,0 +1,17 @@
+$TTL 60
+@   IN  SOA offenbach.opera.XIX.de. root (
+             1024       ; Serial
+             604800     ; Refresh
+              86400     ; Retry
+            60     ; Expire
+             60 )   ; Negative Cache TTL
+;
+	IN	NS	offenbach.opera.XIX.de.
+XVIII	IN	NS	mozart.XVIII
+XVII	IN	NS	offenbach.opera.XIX.de.
+XIX	IN	NS	quantz.XVIII
+XX	IN	NS	zelenka.XVIII
+mozart.XVIII	IN	A	192.168.16.141
+quantz.XVIII	IN	A	192.168.16.147
+zelenka.XVIII	IN	A	192.168.16.133
+biber.sonatas.XVII	IN	A	192.168.16.18

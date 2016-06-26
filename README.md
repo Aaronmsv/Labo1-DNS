@@ -2,6 +2,9 @@
 
 TODO: Foto!
 
+How to contribute: fork & pull request pls!
+
+
 
 ## Unfinished
 
@@ -9,7 +12,6 @@ TODO: Foto!
 - arne
 - bach
 - chopin
-- corelli
 - delalande
 - dvorak
 - elgar
@@ -32,7 +34,6 @@ TODO: Foto!
 - telemann
 - uccellini
 - vivaldi
-- wagner
 - ysaye
 - zelenka
 
@@ -41,6 +42,8 @@ TODO: Foto!
 ## Finished (not checked)
 
 - xenakis
+- corelli
+- wagner
 
 ## Finished (checked)
 
